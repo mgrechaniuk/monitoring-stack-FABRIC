@@ -14,6 +14,6 @@ Prometheus + Grafana monitoring stack for a minecraft fabric core, running fully
 5. Add Prometheus as a Grafana data source (`http://prometheus:9090`), then import or build a dashboard
 
 ## Showcase
-You can visit https://snapshots.raintank.io/dashboard/snapshot/ZUXFXmcs2C4aYsIK9cHNaii9K8PPhMWc
+You can visit https://snapshots.raintank.io/dashboard/snapshot/ZUXFXmcs2C4aYsIK9cHNaii9K8PPhMWc [Live dashboard snapshot](https://snapshots.raintank.io/dashboard/snapshot/ZUXFXmcs2C4aYsIK9cHNaii9K8PPhMWc)
 or just check out the screenshot
 ![dashboard](dashboard.png)
